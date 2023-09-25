@@ -3,5 +3,5 @@
 <p>I'm a passionate Front-end Web Developer who conjures captivating web experiences.</p>
 <br>
 ## Programming Languages
-<img src = 'https://github.com/stharavi01/stharavi01/blob/main/html.svg' width='30'/>
+<img src = 'https://github.com/stharavi01/stharavi01/blob/main/html.svg' width='60'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/css.svg' width='60'/> <img src = '' width='60'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/js.svg' width='60'/> <img src = '' width='60'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/bootstrap.svg' width='60'/> <img src = '' width='60'/> <img src = '' width='60'/>
 
