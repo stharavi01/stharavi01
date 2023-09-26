@@ -21,3 +21,6 @@ I'm a passionate Front-end Web Developer who conjures captivating web experience
 <br> <!-- Added a line break -->
 
 ![stharavi01's Stats](https://github-readme-stats.vercel.app/api?username=stharavi01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Contributions](https://img.shields.io/github/contributions/stharavi01)
+
