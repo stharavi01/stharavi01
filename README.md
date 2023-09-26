@@ -4,5 +4,7 @@
 
 <h3 margin-bottom="0.8rem"># Programming Languages & tools</h3>
 <div ><img src = 'https://github.com/stharavi01/stharavi01/blob/main/html.svg' width='40'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/css.svg' width='40'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/icons8-javascript-480.svg' width='40'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/icons8-react-480.svg' width='40'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/icons8-bootstrap-480.svg' width='40'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/icons8-jquery-500.svg' width='40'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/icons8-sass-480.svg' width='40'/> <img src = 'https://github.com/stharavi01/stharavi01/blob/main/git.svg' width='40'> </div> 
-<br>
+
+
+
 ![stharavi01's Stats](https://github-readme-stats.vercel.app/api?username=stharavi01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
