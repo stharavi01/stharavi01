@@ -1,4 +1,4 @@
-# Hello, Front-end Alchemist 🌟 here!
+# Hi, Front-end Alchemist 🌟 here!
 
 I'm a passionate Front-end Web Developer who conjures captivating web experiences.
 
