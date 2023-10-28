@@ -1,8 +1,7 @@
-# Hi, Front-end Alchemist 🌟 here!
+# Hi, Front-end Developer 🌟 here!
 
 I'm a passionate Front-end Developer who conjures captivating web experiences.
 
-<img src="https://github.com/stharavi01/stharavi01/blob/main/tumblr_netc76F2so1tfql3no1_500.gif" style="float: right; width:85% ">
 
 ## Programming Languages & Tools
 
