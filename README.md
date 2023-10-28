@@ -1,6 +1,6 @@
 # Hi, Front-end Developer 🌟 here!
 
-I'm a passionate Front-end Developer who conjures captivating web experiences.
+I'm a passionate Front-end Developer immersed in captivating web experiences.
 
 
 ## Programming Languages & Tools
